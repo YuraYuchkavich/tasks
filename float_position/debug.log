@@ -10,3 +10,6 @@
 [0219/204242:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Отказано в доступе. (0x5)
 [0219/204242:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
 [0219/204242:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Отказано в доступе. (0x5)
+[0219/221758:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Отказано в доступе. (0x5)
+[0219/221758:ERROR:registration_protocol_win.cc(82)] TransactNamedPipe: Канал был закрыт. (0x6D)
+[0219/221758:ERROR:file_io_win.cc(163)] CreateFile C:\Program Files\settings.dat: Отказано в доступе. (0x5)

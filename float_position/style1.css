@@ -26,7 +26,7 @@ img{
   top: 239px;
   width: 519px;
   height: 746px;
-  z-index: 5;
+
 }
 .bookmark_1 {
   border-width: 2px;
@@ -39,7 +39,7 @@ img{
   top: 48px;
   width: 95px;
   height: 31px;
-  z-index: 6;
+
 }
 .list2 {
   border-width: 2px;
@@ -51,7 +51,7 @@ img{
   top: 220px;
   width: 519px;
   height: 746px;
-  z-index: 7;
+ 
 }
 .bookmark_2 {
   border-width: 2px;
@@ -64,7 +64,7 @@ img{
   top: 43px;
   width: 95px;
   height: 31px;
-  z-index: 8;
+ 
 }
 .list3 {
   border-width: 2px;
@@ -76,7 +76,7 @@ img{
   top: 200px;
   width: 519px;
   height: 746px;
-  z-index: 9;
+  
 }
 .bookmark_3 {
   border-width: 2px;
@@ -89,7 +89,7 @@ img{
   top: 40px;
   width: 107px;
   height: 31px;
-  z-index: 10;
+ 
 }
 .zagolovok {
   font-size: 24px;
@@ -101,7 +101,7 @@ img{
   top: 41px;
   width: 273px;
   height: 22px;
-  z-index: 19;
+ 
 }
 
 .img1 {
@@ -112,7 +112,6 @@ img{
   width: 207px;
   height: 111px;
 
-  z-index: 18;
 }
 .obzac1 {
   font-size: 12px;
@@ -125,8 +124,7 @@ img{
   width: 222px;
   height: 124px;
 
-  z-index: 14;
-  
+ 
 }
 .obzac2 {
   font-size: 12px;
@@ -138,7 +136,7 @@ img{
   top: 205px;
   width: 454px;
   height: 41px;
-  z-index: 15;
+
 }
 .obzac3 {
   font-size: 12px;
@@ -150,7 +148,7 @@ img{
   top: 263px;
   width: 310px;
   height: 113px;
-  z-index: 16;
+
 }
 
 .img2 {
@@ -160,7 +158,7 @@ img{
   top: 265px;
   width: 140px;
   height: 140px;
-  z-index: 17;
+
 }
 
 .zagolovok2 {
@@ -174,7 +172,7 @@ img{
   top: 425px;
   width: 359px;
   height: 17px;
-  z-index: 20;
+  
 }
 
 .shytka {
@@ -185,7 +183,7 @@ img{
   top: 463px;
   width: 550px;
   height: 206px;
-  z-index: 23;
+
 }
 .shytka1 {
 
@@ -196,7 +194,7 @@ img{
   height:103 px;
 
   float:left;
-  z-index: 23;
+
 }
 
 
@@ -209,7 +207,7 @@ img{
   top: 682px;
   width: 440px;
   height: 20px;
-  z-index: 12;
+
 }
 
 .links1{
@@ -224,7 +222,7 @@ img{
 
   width: 87px;
   height: 69px;
-  z-index: 28;
+
 }
 
 .Share_this {
@@ -236,7 +234,7 @@ img{
   top: 9px;
   width: 65px;
   height: 12px;
-  z-index: 29;
+
 }
 .imglinks {
   background-image: url("ikon.jpg");
@@ -245,5 +243,5 @@ img{
   top: 33px;
   width: 79px;
   height: 22px;
-  z-index: 30;
+
 }
